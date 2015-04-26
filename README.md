@@ -1,4 +1,4 @@
 # Stronka-
 
 Pomoc:
-http://wbzyl.inf.ug.edu.pl/rails4/
+http://tao.inf.ug.edu.pl/
